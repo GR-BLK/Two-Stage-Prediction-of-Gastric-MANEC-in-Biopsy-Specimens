@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model weights (do NOT redistribute)
+*.bin
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Feature outputs / patient data
+*.npz
+*.npy
+*.csv
+output*/
+results/
+data/
+checkpoints/
+*.log

@@ -1,9 +1,0 @@
-# Core
-numpy>=1.24
-Pillow>=10.0
-openslide-python>=1.3.0
-opencv-python>=4.8
-pandas>=2.0
-
-# GPU (optional; only needed for gpu-* subcommands)
-torch>=2.1
